@@ -6,7 +6,11 @@ body {
   margin: 0;
   padding: 0;
 }
-
+img {
+  display: block;
+  margin: 10px auto;
+  border-radius: 8px;
+}
 header, section, footer {
   padding: 20px;
   margin: 20px;
